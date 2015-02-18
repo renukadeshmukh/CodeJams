@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\bin\Debug\AlternatingCharacters.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\bin\Debug\AlternatingCharacters.exe
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\bin\Debug\AlternatingCharacters.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\obj\Debug\AlternatingCharacters.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\obj\Debug\AlternatingCharacters.exe
+g:\users\renuka\documents\visual studio 2013\Projects\AlternatingCharacters\AlternatingCharacters\obj\Debug\AlternatingCharacters.pdb

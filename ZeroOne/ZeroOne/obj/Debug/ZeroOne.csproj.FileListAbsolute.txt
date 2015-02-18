@@ -1,0 +1,5 @@
+g:\users\renuka\documents\visual studio 2013\Projects\ZeroOne\ZeroOne\bin\Debug\ZeroOne.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\ZeroOne\ZeroOne\bin\Debug\ZeroOne.exe
+g:\users\renuka\documents\visual studio 2013\Projects\ZeroOne\ZeroOne\bin\Debug\ZeroOne.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\ZeroOne\ZeroOne\obj\Debug\ZeroOne.exe
+g:\users\renuka\documents\visual studio 2013\Projects\ZeroOne\ZeroOne\obj\Debug\ZeroOne.pdb

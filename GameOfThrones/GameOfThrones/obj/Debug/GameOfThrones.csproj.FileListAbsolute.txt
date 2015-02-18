@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\bin\Debug\GameOfThrones.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\obj\Debug\GameOfThrones.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\bin\Debug\GameOfThrones.exe
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\bin\Debug\GameOfThrones.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\obj\Debug\GameOfThrones.exe
+g:\users\renuka\documents\visual studio 2013\Projects\GameOfThrones\GameOfThrones\obj\Debug\GameOfThrones.pdb

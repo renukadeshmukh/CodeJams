@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\bin\Debug\LoveLetterMystery.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\bin\Debug\LoveLetterMystery.exe
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\bin\Debug\LoveLetterMystery.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\obj\Debug\LoveLetterMystery.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\obj\Debug\LoveLetterMystery.exe
+g:\users\renuka\documents\visual studio 2013\Projects\LoveLetterMystery\LoveLetterMystery\obj\Debug\LoveLetterMystery.pdb

@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.exe
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\bin\Debug\PowerfulDigitCounts.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.exe
+g:\users\renuka\documents\visual studio 2013\Projects\PowerfulDigitCounts\PowerfulDigitCounts\obj\Debug\PowerfulDigitCounts.pdb

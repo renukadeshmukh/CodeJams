@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\bin\Debug\AngryChildren.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\bin\Debug\AngryChildren.exe
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\bin\Debug\AngryChildren.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\obj\Debug\AngryChildren.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\obj\Debug\AngryChildren.exe
+g:\users\renuka\documents\visual studio 2013\Projects\AngryChildren\AngryChildren\obj\Debug\AngryChildren.pdb
