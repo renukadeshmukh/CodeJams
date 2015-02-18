@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\bin\Debug\MaximizingXOR.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\bin\Debug\MaximizingXOR.exe
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\bin\Debug\MaximizingXOR.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\obj\Debug\MaximizingXOR.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\obj\Debug\MaximizingXOR.exe
+g:\users\renuka\documents\visual studio 2013\Projects\MaximizingXOR\MaximizingXOR\obj\Debug\MaximizingXOR.pdb
