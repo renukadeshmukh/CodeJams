@@ -1,0 +1,6 @@
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.exe.config
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.exe
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\bin\Debug\ACM ICPC Team.pdb
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.csprojResolveAssemblyReference.cache
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.exe
+g:\users\renuka\documents\visual studio 2013\Projects\ACM ICPC Team\ACM ICPC Team\obj\Debug\ACM ICPC Team.pdb
