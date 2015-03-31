@@ -32,7 +32,7 @@ namespace YodleJuggleFest
         public int H { get; set; }
         public int E { get; set; }
         public int P { get; set; }
-        public List<int> CircuitPref { get; set; }
+        public List<CircuitNode> CircuitPref { get; set; }
         public bool IsScheduled { get; set; }
         
         public Juggler(string n, string h, string e, string p)
@@ -41,7 +41,7 @@ namespace YodleJuggleFest
             H = int.Parse(h);
             E = int.Parse(e);
             P = int.Parse(p);
-            CircuitPref = new List<int>();
+            CircuitPref = new List<CircuitNode>();
             
             IsScheduled = false;
             
@@ -60,9 +60,21 @@ namespace YodleJuggleFest
         }
     }
 
+    public class CircuitNode
+    {
+        public int CircuitNum { get; set; }
+        public int CircuitWeight { get; set; }
+
+        public CircuitNode(int num, int wt)
+        {
+            CircuitNum = num;
+            CircuitWeight = wt;
+        }
+    }
+
     public class HelperProperties
     {
-        public static string INPUT_FILE = @"..\..\jugglefest.txt";
+        public static string INPUT_FILE = @"..\..\testdata.txt";
         public static string OUTPUT_FILE = @"..\..\juggleOutput.txt";
     }
 }

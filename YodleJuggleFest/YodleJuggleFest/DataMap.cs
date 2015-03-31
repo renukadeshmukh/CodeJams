@@ -54,13 +54,7 @@ namespace YodleJuggleFest
                     else if (string.Equals("j", lines[0], StringComparison.InvariantCultureIgnoreCase))
                     {
                         Juggler j = GetJuggler(lines);
-                        j.CircuitPref = GetCircuitPref(lines[5]);
-
-                        //for (int i = 0; i < j.CircuitPref.Count; i++)
-                        //{
-                        //    Circuit c = Circuits[i];
-                        //    j.Weights[c.CircuitNum] = j.H * c.H + j.E * c.E + j.P * c.P;
-                        //}
+                        j.CircuitPref = GetCircuitPref(lines[5], j);
 
                         Jugglers.Add(j.JugglerNum, j);
                         UnscheduledJugglers.Add(j.JugglerNum, true);
@@ -75,13 +69,14 @@ namespace YodleJuggleFest
             file.Close();
         }
 
-        private List<int> GetCircuitPref(string p)
+        private List<CircuitNode> GetCircuitPref(string p, Juggler j)
         {
-            List<int> prefs = new List<int>();
+            List<CircuitNode> prefs = new List<CircuitNode>();
             string[] prefArr = p.Split(',');
             foreach (string item in prefArr)
             {
-                prefs.Add(Int32.Parse(item.Replace("C", string.Empty)));
+                int circNum = Int32.Parse(item.Replace("C", string.Empty));
+                prefs.Add(new CircuitNode(circNum, GetWeight(Circuits[circNum], j)));
             }
             return prefs;
         }
@@ -121,8 +116,8 @@ namespace YodleJuggleFest
                     {
                         foreach (var circ in jug.CircuitPref)
                         {
-                            Circuit c = Circuits[circ];
-                            int weight = GetWeight(c, jug);
+                            Circuit c = Circuits[circ.CircuitNum];
+                            int weight = circ.CircuitWeight;//GetWeight(c, jug);
                             if (c.Jugglers.Count < SizeOfTeam)
                             {
                                 c.Jugglers.Add(new JugglerNode(jug.JugglerNum,weight));
@@ -190,10 +185,10 @@ namespace YodleJuggleFest
                 foreach (var jug in circ.Value.Jugglers)
                 {
                     sb.Append("J" + jug.JugglerNum + " ");
-                    List<int> prefs = Jugglers[jug.JugglerNum].CircuitPref;
+                    List<CircuitNode> prefs = Jugglers[jug.JugglerNum].CircuitPref;
                     foreach (var pref in prefs)
                     {
-                        sb.Append("C" + pref + ":" + GetWeight(Circuits[pref], Jugglers[jug.JugglerNum]) + " ");
+                        sb.Append("C" + pref.CircuitNum + ":" + pref.CircuitWeight + " ");
                     }
                     sb.Append(",");
                 }
