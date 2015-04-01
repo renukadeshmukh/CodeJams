@@ -74,7 +74,7 @@ namespace YodleJuggleFest
 
     public class HelperProperties
     {
-        public static string INPUT_FILE = @"..\..\testdata.txt";
+        public static string INPUT_FILE = @"..\..\jugglefest.txt";
         public static string OUTPUT_FILE = @"..\..\juggleOutput.txt";
     }
 }
