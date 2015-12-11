@@ -29,6 +29,7 @@ namespace CodingChallengeCS
 
         public void SortNumericListInPlace(List<int> arr)
         {
+            //Insertion Sort
             List<int> sortedList = new List<int>();
             for (int i = 0; i < arr.Count(); i++)
             {
